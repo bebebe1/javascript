@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 aaa# Airbnb JavaScript Style Guide() {
+>>>>>>> branch1
 
 *A mostly reasonable approach to JavaScript*
 
